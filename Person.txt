@@ -1,0 +1,17 @@
+
+public class Person {
+    
+    //Attributes
+    protected String name;
+    protected static int age;
+    
+    //Methods
+    private static int getAge(){
+        
+        return age;
+    }
+    public static void printInformation(){
+        int b = getAge();
+        System.out.println("Age: " + b);
+    }
+}

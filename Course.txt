@@ -1,0 +1,7 @@
+package ZEFUEN.OOP_WorkShop2;
+class Course {
+    //Attributes
+    protected String name;
+    protected double grade;
+    //Methods
+}

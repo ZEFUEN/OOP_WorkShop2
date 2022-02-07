@@ -1,0 +1,7 @@
+package ZEFUEN.OOP_WorkShop2;
+class Student {
+    
+    //Attributes
+    protected int year;
+    //Methods
+}

@@ -1,0 +1,8 @@
+public class Instructor extends Person {
+    
+    //Attributes
+    
+    //Methods
+    public static void assign(){
+    }
+}
